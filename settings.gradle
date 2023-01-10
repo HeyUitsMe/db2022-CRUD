@@ -1,0 +1,2 @@
+rootProject.name = 'jdbc-crud'
+include('app')
